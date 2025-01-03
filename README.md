@@ -1,5 +1,4 @@
-# Tableau-Visualisation
-SaaS Revenue Analysis
+# SaaS Revenue Analysis
 This project involves analyzing SaaS revenue data and visualizing the results.
 
 Included Data:
